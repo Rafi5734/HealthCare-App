@@ -1,0 +1,24 @@
+.main-class-title {
+    font-size: 50px;
+    font-family: "Courier New", Courier, monospace;
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+}
+.class {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.class i {
+    font-size: 20px;
+}
+.class-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.class-detail {
+    margin-left: 20px;
+    border-bottom: 2px solid #000;
+}

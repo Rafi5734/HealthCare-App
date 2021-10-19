@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Young healthy man, athlete doing exercise with the ropes in gym.",
+        "description": "Single male model practicing hard and training his upper body. Concept of healthy lifestyle, sport, fitness, bodybuilding, wellbeing with GYM ropes.",
+        "calories": 210,
+
+        "rating": 4,
+
+        "image": "https://image.freepik.com/free-photo/young-healthy…t-fitness-bodybuilding-wellbeing_155003-27879.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Young muscular caucasian athlete practicing in gym with the weights.",
+        "description": "The genealogy of lifting can be traced back to the beginning of recorded history where humanity's fascination with physical abilities can be found among numerous ancient writings.",
+        "rating": 5,
+        "calories": 221,
+
+        "image": "https://image.freepik.com/free-photo/young-muscula…lete-practicing-gym-with-weights_155003-32068.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Beautiful young sporty woman training workout in gym.",
+        "description": "Being part of a women-only gym means there are more equipment and classes catered toward women and the female body.",
+        "rating": 4.5,
+        "calories": 232,
+
+        "image": "https://image.freepik.com/free-photo/beautiful-you…porty-woman-training-workout-gym_155003-41224.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Young muscular athlete practicing pull-ups in gym with the rings.",
+        "description": "They’ll also allow you to work your shoulders through ranges where they’d normally be weak, helping your shoulder joints get healthy and strong,” says James Stark, an ex-gymnast and calisthenics coach. ",
+        "rating": 3,
+        "calories": 170,
+
+        "image": "https://image.freepik.com/free-photo/young-muscula…acticing-pull-ups-gym-with-rings_155003-35485.jpg"
+    },
+    {
+        "id": 5,
+        "name": "young muscular caucasian athlete practicing squats in gym with the weight.",
+        "description": "you could ever need or want to know about free weights, the weight room, and how to make your grand entrance into it.",
+        "rating": 5,
+        "calories": 180,
+
+        "image": "https://image.freepik.com/free-photo/unstoppable-y…y-lifestyle-bodybuilding-concept_155003-28004.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Young healthy man, athlete doing balance exercises, squats in gym. ",
+        "description": "A high-intensity class designed to aid in the development of overall fitness level and a well-rounded physique.",
+        "rating": 4,
+        "calories": 150,
+
+        "image": "https://image.freepik.com/free-photo/young-healthy…t-fitness-bodybuilding-wellbeing_155003-27887.jpg"
+    },
+    {
+        "id": 7,
+        "name": "young muscular caucasian woman practicing in gym with equipment.",
+        "description": "When it comes to gym equipment, there are a ton of different brands, types, and styles of equipment; it can get a little overwhelming.",
+        "rating": 4.1,
+        "calories": 138,
+
+        "image": "https://image.freepik.com/free-photo/wellness-youn…s-healthy-lifestyle-bodybuilding_155003-28626.jpg"
+    },
+    {
+        "id": 8,
+        "name": "professional athletes training on brick wall wearing face masks.",
+        "description": "We ensure our clients security, health, and privacy so far they want or need. Because those are our commitments.",
+        "rating": 3.8,
+        "calories": 0,
+
+        "image": "https://image.freepik.com/free-photo/resting-profe…cticing-gym-safe-using-equipment_155003-24686.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Fitness training during the covid-19 period.",
+        "description": "Fitness enthusiasts were forced to stay indoors trying to look for alternatives to keep their workout routine in check.",
+        "rating": 4.2,
+        "calories": 0,
+
+        "image": "https://image.freepik.com/free-photo/fitness-train…althy-lifestyle-concept-top-view_175682-24054.jpg"
+    }
+]

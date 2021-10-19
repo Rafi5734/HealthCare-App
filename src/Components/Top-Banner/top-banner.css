@@ -1,0 +1,36 @@
+.carousel-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.carousel-para {
+    margin-bottom: 20%;
+}
+.banner-title {
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+@media only screen and (max-width: 450px) {
+    .carousel-title {
+        margin-bottom: 10px;
+    }
+    .banner-title {
+        font-size: 25px;
+    }
+    .carousel-para {
+        font-size: 1px;
+    }
+}
+
+/* <div className="carousel-title">
+                            <h1 className="banner-title text-sm-start">
+                                Love Our Health
+                            </h1>
+                            <p className="lead carousel-para">
+                                IS MORE THAN JUST POSES
+                            </p>
+                            <Button variant="outline-warning">
+                                See Details
+                            </Button>{" "}
+                        </div> */
